@@ -40,7 +40,7 @@ This project is an end-to-end HR analytics solution built on Microsoft Fabric, d
 ## Data Structure
 - Multiple Tables: 5
 - Number of Records: 
-- Number of Fields: 55
+- Number of Fields: 22
   
 ## Tool used for the analysis 
 Microsoft  Fabric & PowerBI- for cleaning, analyzing and building reports. 
