@@ -22,7 +22,7 @@ This project is an end-to-end HR analytics solution built on Microsoft Fabric, d
 
 
 
-<img width="1351" height="726" alt="Screenshot 2025-07-15 192124" src="https://github.com/user-attachments/assets/3a6d059c-78d4-4ce0-b32f-02ad1169b21d" />)
+<img width="1351" height="726" alt="Screenshot 2025-07-15 192124" src="https://github.com/user-attachments/assets/3a6d059c-78d4-4ce0-b32f-02ad1169b21d" />
 
 
 
