@@ -26,23 +26,24 @@ This project is an end-to-end HR analytics solution built on Microsoft Fabric, d
 
 
 
-[Dashboard Link](https://app.powerbi.com/links/Gm3IEyatVB?ctid=04ade39f-5160-4faa-bcff-26d243a2b402&pbi_source=linkShare)
+[Dashboard Link](https://app.fabric.microsoft.com/links/-x1TUBp104?ctid=6d461a65-c4ee-4ee1-a98c-4188e8a1219d&pbi_source=linkShare)
 
 ## Audience 
 
-Executive
+-Executive
+-HR Managers
 
 ## Data Sources 
 
-- "patients.csv" : contains detailed information about patient demographic 
-- "encounters.csv" : details of patient encounters 
-- "organizations.csv" : information about the organisations involved 
-- "procedures.csv": details of medical procedures performed"
-- "payers.csv" : insurance and coverage information
+- "education_levels.csv" : contains detailed information employee education levels 
+- "employee.csv" : details of employees
+- "performance.csv" : information about employees performance
+- "rating.csv": details of employee ratings"
+- "satisfaction.csv" : information about employee satisfaction
 
 ## Data Structure
 - Multiple Tables: 5
-- Number of Records: 75,592
+- Number of Records: 
 - Number of Fields: 55
   
 ## Tool used for the analysis 
